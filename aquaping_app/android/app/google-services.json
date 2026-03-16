@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859504170418",
+    "project_id": "aquaping-697b8",
+    "storage_bucket": "aquaping-697b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859504170418:android:1c9266ee8336b7c3e900ab",
+        "android_client_info": {
+          "package_name": "com.example.aquaping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6yN9UqCwzbgwXDrbnOu-ZDyK0GqPhW5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859504170418:android:8c45734579570c26e900ab",
+        "android_client_info": {
+          "package_name": "com.ph.aquaping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6yN9UqCwzbgwXDrbnOu-ZDyK0GqPhW5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
